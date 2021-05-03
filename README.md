@@ -5,7 +5,7 @@
 
 ## 📌 Introduction
 
-It is a Expense Tracker which help you to keep a count of your expenses which you have made so far.
+It is an Expense Tracker which helps you to keep a count of your expenses which you have made so far.
 
 ## 📌 How to run locally ?
 
